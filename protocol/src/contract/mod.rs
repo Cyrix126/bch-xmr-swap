@@ -236,7 +236,7 @@ mod test {
 
         assert_eq!(
             refund.cash_address(),
-            "bitcoincash:prmnwxmmaq58h22jt7qrjmutnkrmrfm4j57zy4cf45"
+            "bchtest:prmnwxmmaq58h22jt7qrjmutnkrmrfm4j56sqj67jg"
         );
     }
 }
